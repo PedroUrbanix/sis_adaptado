@@ -16,7 +16,7 @@ Além dos sistemas de informação em saúde, cabe também destacar a importânc
 
 ## Dimensões pública e privada do SUS
 
-Cabe aqui ressaltar que alguns SIS apresentam uma cobertura ampla, incluindo as dimensões pública e privada do SUS. Nestes SIS, todo evento de saúde é contabilizado, independente dele aconter em um estabelecimento de saúde público ou privado. Pode-se citar o SIM, SINASC e o SINAN como exemplos. Assim, qualquer óbito, nascimento ou possível caso de doença ou agravo de interesse ocorrido em território nacional é comunicado ao Ministério da Saúde e é registrado em seu respectivo SIS,
+Cabe aqui ressaltar que alguns SIS apresentam uma cobertura ampla, incluindo as dimensões pública e privada do SUS. Nestes SIS, todo evento de saúde é contabilizado, independente dele aconter em um estabelecimento de saúde público ou privado. 
 
 ::::: {.callout}
 O Sistema Único de Saúde (SUS) engloba todos os profissionais, estabelecimentos e serviços de saúde oferecidos no Brasil, independente de serem privados, públicos ou filantrópicos.
@@ -26,10 +26,3 @@ Na estrutura do SUS, os serviços *privados* de saúde, como atendimentos partic
 
 Por outro lado, alguns SIS são restritos à dimensão pública do SUS. Neste caso, apenas eventos de saúde ocorridos em estabelecimentos de saúde públicos são registrados. SIH e SIA são exemplos de SIS com este tipo de cobertura. A ANS apresenta regularmente dados sobre eventos de saúde ocorridos na dimensão privada do SUS. 
 
-## Doenças, agravos e SIS
-
-É importante salientar que os diferentes SIS são organizados por **eventos de saúde** e não por doenças e agravos. Eventos de saúde são nascimentos, internações, atendimentos ambulatoriais, notificação de suspeita de doença, imunizações e óbitos, entre outros. 
-
-Desta forma, ao se procurar por dados de uma determinada doença ou agravo, deve-se refletir como esta doença ou agravo irá se refletir nos diferentes sistemas de informação em saúde. Por exemplo, a doença "Dengue" pode se manifestar em diversos SIS: o caso suspeito é lançado no SINAN, se evoluir para internação hospitalar será lançado também no SIH, os procedimentos terapêuticos serão lançados no SIA e, caso venha a óbito, também constará no SIM.
-
-Os capítulos seguintes irão apresentar estes e outros SIS brasileiros, com seu histórico e organização, estrutura dos seus dados, formas de acesso, seus principais usos e indicadores, bibliografia recomendada e outras informações relevantes.

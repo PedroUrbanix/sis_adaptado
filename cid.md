@@ -4,14 +4,6 @@ Os códigos da Classificação Internacional de Doenças estão presentes em div
 
 ## Histórico
 
-As primeiras classificações de doenças se iniciaram com os trabalhos de John Graunt (1620 -- 1674) e a construção de tabelas de mortalidade em Londres. A classificação pioneira visava normatizar e permitir a comparação das principais causas de óbito no tempo.
-
-Outras classificações de doenças foram também propostas por William Farr (1807 -- 1883), visando melhor padronizar a nomenclatura das doenças e causas de óbito. 
-
-O Instituto Internacional de Estatística criou um comitê em 1891, chefiado por Jacques Bertillon (1851-1922), para preparar uma nova classificação de causas de óbito. A classificação proposta por este grupo se inspirou na classificação usada na cidade de Paris, recebendo boa aprovação e utilização em países da Europa, EUA e Canadá. 
-
-Sucessivas revisões foram realizadas no decorrer do tempo, visando melhor normatizar a nomenclatura e estrutura hierárquica das causas de óbito. 
-
 A Organização Mundial da Saúde (OMS), criada em 1948, passou a se responsabilizar pela manutenção e atualização da classificação de causas de óbito.
 
 Uma descrição histórica da CID mais completa pode ser encontrada [neste documento](assets/cid/historyoficd.pdf).

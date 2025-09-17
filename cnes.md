@@ -9,13 +9,7 @@
 
 ## Histórico e organização
 
-Os primeiros esforços para sistematizar dados sobre estabelecimentos de saúde no Brasil ocorreram em 1976, com a Pesquisa da Assistência Médico-Sanitária (AMS) realizada pelo IBGE. No mesmo ano, foi implantado o o Sistema Nacional de Controle de Pagamento de Contas Hospitalares (SNCPCH) no âmbito do Instituto Nacional de Assistência Médica da Previdência Social (INAMPS). Ainda que o objetivo do SNCPCH seja administrativo, para pagamento de serviços prestados, sua implantação demandou a construção de fichas cadastrais de estabelecimentos e de profissionais de saúde.
 
-O SNCPCH foi estinto em 1980, mas suas fichas continuaram ativas compondo o o Sistema de Assistência Médico-Hospitalar da Previdência Social (SAMPS), na década de 1980, e o SIH, na década de 1990. Após a implantação do SIA em 1994 e verificação de inconsistências nos dados sobre os estabelecimentos de saúde, foi implantada a ficha Ficha de Cadastro de Estabelecimentos de Saúde -- FCES (Portaria n° 1890/GM/MS/1997), sendo continuamente aperfeiçoada.
-
-Após a consolidação da FCES, a portaria 403/SAS/MS/2000 definiu o Cadastro Nacional de Estabelecimentos de Saúde (CNES), com um escopo ainda limitado, visando subsidiar principalmente o processo de faturamento no SIA e SIH, e parcialmente pesquisas estatísticas.
-
-Com avanços sobre o modelo de pactuação de cadastramento na Comissão Intergestores Tripartite (CIT) e realização de consultas públicas, a primeira versão do CNES é disponibilizada em 2001. Ainda neste ano também é iniciado um processo de recadastramento informatizado, que se estendeu até 2003.
 
 O CNES apresenta atualmente dados cadastrais sobre todos os estabelecimentos de saúde, profissionais de saúde, equipamentos, serviços de apoio diagnóstico e terapêutico e serviços ambulatoriais e hospitalares no território nacional. O código único do CNES é utilizado em sistemas como o SIH e SIA para referenciar a unidade de saúde onde a hospitalização e os procedimentos ambulatoriais ocorreram. 
 
@@ -25,9 +19,6 @@ Estabelecimento de saúde é definido como o espaço físico delimitado e perman
 
 Em termos de dimensão, para o mês de abril de 2020, o CNES apresenta 409.829 estabelecimentos de saúde, segundo dados compilados pela PCDaS/ICICT [@pedrosoDataSciencePlatform2023]. 
 
-Como se trata de um cadastro, suas informações são atualizadas permanentemente e os dados históricos de todos os meses anteriores estão disponíveis para acesso, sendo possível acompanhar mensalmente a evolução da rede de unidades de saúde no Brasil, tão como a dinâmica dos profissionais no sistema de saúde. 
-
-Mais informações sobre o CNES podem ser encontradas [aqui](https://wiki.saude.gov.br/cnes/index.php/Página_principal).
 
 ## Estrutura dos dados
 

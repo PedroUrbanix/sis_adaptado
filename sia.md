@@ -11,13 +11,6 @@
 
 O Sistema de Informações Ambulatoriais (SIA) abrange dados sobre atendimentos ambulatoriais, serviços de apoio diagnóstico e terapêutico, e ações de prevenção e promoção de saúde, cobrindo unidades de saúde da dimensão pública do SUS e rede conveniada (particular).
 
-O SIA foi instituído pela Portaria GM/MS n.º 896 de 29 de junho de 1990 tendo origem no projeto SICAPS (Sistema de Informação e Controle Ambulatorial da Previdência Social). 
-
-A implantação do SIA em território nacional se deu em 1995, com o uso do Boletim de Produção Ambulatorial Consolidado (BPA-C), onde era registrado apenas o procedimento realizado e a quantidade conforme profissional.
-
-A Autorização de Procedimentos Ambulatoriais e Alta Complexidade/Custo (APAC) foi instituída em 1996 como um novo instrumento do SIA, contemplando procedimentos ambulatoriais de alta complexidade e custo.
-
-Em 2008, foi implantado o Boletim de Produção Ambulatorial Individualizado (BPA-I), ligando o procedimento realizado a uma identidicação do profissional e do paciente.
 
 Mais detalhes sobre o histórico do SIA podem ser encontrados [aqui](https://wiki.saude.gov.br/sia/index.php/Página_principal).
 
